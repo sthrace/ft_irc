@@ -1,0 +1,20 @@
+{
+	"servername": "IRCat",
+	"info": "IRC server based on TCP/IP protocol to rfc1459 standard",
+	"version": "v1.2",
+	"debuglvl": "1",
+	"comments": "release",
+	"describe": "describe",
+	"adminName": "Kirill",
+	"adminNickname": "sthrace",
+	"adminEmail": "inbox.d299@gmail.com",
+	"allowedIP": "0.0.0.0",
+	"maxChannels": 10,
+	"maxInactiveTimeout": 120,
+	"maxResponseTimeout": 60,
+	"operators": {
+		"sthrace": "8efb00100b73f7e1c28111f9f1347fb413d29c3f76e17bcdfc43e67b230e6d03",
+		"edread": "40502369c8b55ffba37d7864b5fccd751982dcccd970ebacc7a62c3b43e14906",
+		"rmass": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3"
+	}
+}
